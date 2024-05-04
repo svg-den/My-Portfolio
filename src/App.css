@@ -521,7 +521,7 @@ p, a, li, button, ul {
     position: relative;
   }
   .contact form button:hover {
-    color: black !important;;
+    color: white !important;;
   }
   .contact form button::before {
     content: "";
